@@ -22,10 +22,4 @@ int main() {
     cout << "You entered 0." << endl;
 
   }
-
-  cout << "This line is always printed.";
-
-  return 0;
-
-  
 }
